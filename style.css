@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+div {
+    background-color:black;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    font-size: 30px;
+    border: 1px solid white;
+    width: 50%;
+    height: 30px;
+    margin-left: 180px;
+    border-radius:12px;
+  }
+
+#home{
+    color: white;
+    font-size: 25px;
+    margin-left: 4cm;
+  
+}
+#contact{
+    color: white;
+    font-size: 25px;
+    margin-left: 4cm;
+   
+  
+}
+#produce{
+    color: white;
+    font-size: 25px;
+    margin-left: 4cm;
+
+  
+}
+#reservation{
+    color: white;
+    font-size: 25px;
+    margin-left: 4cm;
+
+}
+#home,#contact,#produce,#reservation{
+    display: inline;
+}
